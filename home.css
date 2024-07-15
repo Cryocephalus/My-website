@@ -46,6 +46,7 @@ li a:hover{
 
 #intro_to_company{
     font-size: 17px;
+    text-align: center;
 }
 
 .context{
@@ -59,6 +60,7 @@ li a:hover{
     text-align: center;
     margin: 100px;
     font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .content p {
