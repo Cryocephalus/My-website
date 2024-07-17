@@ -3,10 +3,27 @@ main{
     padding: 20px;
 }
 
+.container{
+    width: 100%;
+    height: 150vh;
+    background-image: url(dark-blue-background-with-abstract-graphic-elements_181182-612.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.containerV2{
+    width: 100%;
+    height: 150vh;
+    background-image: url(c1bee41c-638c-40ea-8435-05f022bf6ccb.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
 .nav{
     display: flex;
     justify-content: center;
     padding: 14px 16px;
+    background-color: black;
 }
 
 ul{
@@ -39,7 +56,7 @@ li a:hover{
 
 .product{
     width:250px;
-    border: 1px solid indigo;
+    border: 5px solid darkblue;
     padding: 20px;
     margin: 10px;
 }

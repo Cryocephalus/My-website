@@ -3,10 +3,32 @@ main{
     padding: 20px;
 }
 
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(pipes-valves-illustration_204926-2802.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
 .nav{
     display: flex;
     justify-content: center;
     padding: 14px 16px;
+}
+
+#miss-stat{
+    color: black;
+    background-color: aqua;
+    text-decoration: underline;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+#logo{
+    height: 130px;
+    width: 130px;
 }
 
 ul{
